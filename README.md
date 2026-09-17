@@ -9,3 +9,5 @@ model that predicts the outcome they care about.
 Work as a team, run your assigned dataset through the full pipeline you learned this term, and submit one
 notebook that tells the whole story. Every group must complete every stage. You cannot skip clustering,
 classification, or imbalance handling; each is graded on its own.
+
+[Link to dataset]: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
